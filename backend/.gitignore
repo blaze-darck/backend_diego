@@ -1,2 +1,4 @@
 #archivos a ignorar .env
 .env
+#node modules
+node_modules
