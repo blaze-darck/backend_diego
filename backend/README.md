@@ -1,3 +1,5 @@
+# 26/09/2025
+
 # Librerias para el backend
 
 - mysql2 # para la coneccion a la base de datos
@@ -8,3 +10,5 @@
 - cookie-parser
 - jsonwebtoken
 - nodemon # independencia de desarrollo
+  ------------------------------------SERVIDOR-------------------------
+- npm run dev # levantas el servidor
