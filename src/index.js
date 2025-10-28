@@ -2,6 +2,9 @@ require("dotenv").config();
 const express = require("express");
 const sequelize = require("./config/database");
 const Usuario = require("./models/usuarios");
+const Rol = require("./models/rol");
+const UsuarioRol = require("./models/usuarioRol");
+const Persona = require("./models/persona");
 
 const app = express();
 app.use(express.json());
