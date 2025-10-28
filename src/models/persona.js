@@ -10,7 +10,7 @@ const Persona = sequelize.define("Persona", {
     type: DataTypes.STRING,
     allowNull: false,
   },
-  apellido_patermo: {
+  apellido_materno: {
     type: DataTypes.STRING,
     allowNull: false,
   },
